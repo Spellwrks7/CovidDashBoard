@@ -1,0 +1,45 @@
+{
+    "count": 675,
+    "next": "https://api.ukhsa-dashboard.data.gov.uk/themes/infectious_disease/sub_themes/respiratory/topics/COVID-19/geography_types/Nation/geographies/England/metrics/COVID-19_vaccinations_autumn24_uptakeByDay?format=json&page=2",
+    "previous": null,
+    "results": [
+        {
+            "theme": "infectious_disease",
+            "sub_theme": "respiratory",
+            "topic": "COVID-19",
+            "geography_type": "Nation",
+            "geography": "England",
+            "geography_code": "E92000001",
+            "metric": "COVID-19_vaccinations_autumn24_uptakeByDay",
+            "metric_group": "vaccinations",
+            "stratum": "default",
+            "sex": "f",
+            "age": "80+",
+            "year": 2024,
+            "month": 9,
+            "epiweek": 40,
+            "date": "2024-09-30",
+            "metric_value": 0.0,
+            "in_reporting_delay_period": false
+        },
+        {
+            "theme": "infectious_disease",
+            "sub_theme": "respiratory",
+            "topic": "COVID-19",
+            "geography_type": "Nation",
+            "geography": "England",
+            "geography_code": "E92000001",
+            "metric": "COVID-19_vaccinations_autumn24_uptakeByDay",
+            "metric_group": "vaccinations",
+            "stratum": "default",
+            "sex": "m",
+            "age": "65-69",
+            "year": 2024,
+            "month": 9,
+            "epiweek": 40,
+            "date": "2024-09-30",
+            "metric_value": 0.0,
+            "in_reporting_delay_period": false
+        }
+    ]
+}
